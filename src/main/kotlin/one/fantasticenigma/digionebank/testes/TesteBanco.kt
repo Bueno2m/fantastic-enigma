@@ -1,6 +1,6 @@
-package one.digitalinnovation.digionebank.testes
+package one.fantasticenigma.digionebank.testes
 
-import one.digitalinnovation.digionebank.Banco
+import one.fantasticenigma.digionebank.Banco
 
 fun main() {
     val nome: String = "DigiOne"
