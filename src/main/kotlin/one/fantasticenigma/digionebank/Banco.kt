@@ -1,4 +1,4 @@
-package one.digitalinnovation.digionebank
+package one.fantasticenigma.digionebank
 
 data class Banco(
     val nome: String,

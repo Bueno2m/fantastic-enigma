@@ -1,4 +1,4 @@
-package one.digitalinnovation.digionebank
+package one.fantasticenigma.digionebank
 
 import java.math.BigDecimal
 
