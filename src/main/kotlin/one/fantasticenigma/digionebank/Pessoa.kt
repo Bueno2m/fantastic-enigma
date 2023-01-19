@@ -1,18 +1,7 @@
-package one.digitalinnovation.digionebank
+package one.fantasticenigma.digionebank
 
-class Pessoa {
-    var name: String = "Victor"
-    var cpf: String = "123.123.123-11"
-    private set
+abstract class Pessoa (
+    val nome: String,
+    val cpf: String
+)
 
-    constructor()
-
-    fun pessoaInfo() = "$name - $cpf"
-}
-
-fun main() {
-    val victor = Pessoa()
-
-    println(victor.pessoaInfo())
-
-}
